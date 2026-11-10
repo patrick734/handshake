@@ -1,0 +1,11 @@
+{
+  "botMainnet": {
+    "chainId": 677,
+    "Handshake": "0xaF8c8A63A952534c23C2073AE567334612331DaD",
+    "deployTx": "0x9a7c6cb37812d44fcc9cd1f00892f43ba977641f67efddd5e1896964428304b1",
+    "owner": "0x3686f4A5cF47DCbaF0cE8eF3bE3F3231dafe5e4f",
+    "treasury": "0x3686f4A5cF47DCbaF0cE8eF3bE3F3231dafe5e4f",
+    "deployer": "0xcC9C1dAC538b7E698C95bAa0C66c345598634CC7",
+    "feeBps": 30
+  }
+}
